@@ -1,0 +1,205 @@
+@charset "UTF-8";
+.body{
+    text-align: center;
+}
+.public-header{
+    background: #191d3a;
+    width:auto;
+    height:2.08cm;
+}
+.public-container{
+    display: block;
+    margin:0 auto;
+    width:998px;
+    height:60px;
+}
+.header-logo{
+    float: left;
+    width:4.8cm;
+    height:1.34cm;
+    margin-top: 0.36cm;
+    background-image: url("../images/logo.png");
+}
+.qqq{
+    display: block;
+    margin:0 auto;
+    width:22.38cm;
+    height:2.08cm;
+}
+.www{
+    border-radius: 5px;
+    width:100px;
+    height:34px;
+    background-color: #38b774;
+    font-color:#fffaf6;
+    line-height:34px;
+    text-align:center;
+    position: relative;
+    top:-55px;
+    right:-150px;
+}
+.sanjiaoxing{
+    position:relative;
+    top:-15px;
+    right:-150px;
+}
+.www:hover{
+    color:#fff;
+    background-color: #2ba364;
+}
+.item-font:hover{
+    color:#ccc;
+    background-color: #ffffff;
+}
+.header-nav{
+    color:#818496;
+    margin-right: 16px;
+}
+.item{
+    width:102px;
+    height:2.08cm;
+    float: left;
+    font-size:14px;
+    border-right: 1px solid #252947;
+    border-left:1px solid #252947;
+    line-height:2.08cm;
+    text-align:center;
+}
+.item :hover{
+    color:#fff;
+    background-color: #252947;
+}
+
+
+.public-footer{
+    background-color: #191d3a;
+    width:auto;
+    height:92px;
+}
+.index-list{
+    width:auto;
+    height:464px;
+    background-image: url("../images/banner.jpg");
+}
+.panel-banner{
+    display: block;
+    width:998px;
+    height:702px;
+    margin:0 auto;
+}
+.banner-top{
+    width:1020px;
+    height:282px;
+    padding-top:50px;
+}
+.top-bpt:hover{
+    background-color: #2fbc71;
+}
+.top-vidio:hover{
+    background-color: #2fbc71;
+}
+.top-gamepic3:hover{
+    background-color: #2fbc71;
+}
+.top-gamepic1:hover{
+    background-color: #2fbc71;
+}
+.top-bpt{
+    float: left;
+    width:218px;
+    line-height:24px;
+    text-align:center;
+    font-size:14px;
+
+    margin-right:44px;
+}
+.top-vidio{
+    float: left;
+    line-height:24px;
+    text-align:center;
+    font-size:14px;
+
+    margin-right:44px;
+}
+.top-gamepic3{
+    float: left;
+    line-height:24px;
+    text-align:center;
+    font-size:14px;
+
+    margin-right:44px;
+}
+.top-gamepic1{
+    float: right;
+    line-height:24px;
+    text-align:center;
+    font-size:14px;
+
+}
+.banner-middle{
+    display: block;
+    width:34cm;
+    height:54px;
+    margin:0 auto;
+    background:#fff;
+}
+.banner-bottom{
+    display: block;
+    float: left;
+    width:998px;
+    height:312px;
+    margin:0 auto;
+}
+.bottom-left{
+    float: left;
+    width:500px;
+    height:312px;
+}
+.bottom-right{
+    float: right;
+    width:498px;
+    height:312px;
+}
+.news{
+    margin-top:100px;
+    line-height:50px;
+}
+.solid{
+    border-bottom: 1px solid #dbe1e7;
+}
+.solld{
+    border-bottom:1px solid #6fdea3;
+}
+.job{
+    margin-top:24px;
+    margin-left:20px;
+    line-height:40px;
+    color:#fff;
+}
+.footer-container{
+    display: block;
+    width:998px;
+    height:92px;
+    margin:0 auto;
+}
+.footer-left{
+    float: left;
+    line-height:92px;
+    font-size:12px;
+    color:#6c6e7e;
+}
+.footer-right{
+    float: right;
+    line-height:92px;
+    font-size:12px;
+    color:#6c6e7e;
+
+
+
+
+/**
+ *
+ * @authors Marte (iqianduan@126.com)
+ * @date    2018-12-08 21:34:38
+ * @version $Id$
+ */
